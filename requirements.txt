@@ -1,0 +1,7 @@
+django
+djangorestframework
+markdown
+django-filter
+django-guardian
+drfdocs
+django-rest-framework-social-oauth2
